@@ -1,0 +1,6 @@
+server:
+  port: 8081
+jwt:
+  access-token:
+    token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJNb2NrdXBSZXNwb25zZSIsImlhdCI6MTY4OTA0OTA5NCwiZXhwIjoxNjg5MDUwMzk4LCJhdWQiOiIiLCJzdWIiOiJNb2NrdXBSZXNwb25zZSJ9.STcYgDy1UOi2BR2_qaRrD_U9xHzW2K6cGIl5DXtytUg'
+    jwtExpirationMs: 300000
